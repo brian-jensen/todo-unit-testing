@@ -1,0 +1,15 @@
+{
+  "name": "todo-unit-testing",
+  "version": "1.0.0",
+  "main": "todo.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^2.1.5"
+  }
+}

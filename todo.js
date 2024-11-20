@@ -22,7 +22,7 @@ function toggleTodo(id) {
   if (todo) {
     todo.completed = !todo.completed;
   }
-}
+} 
 
 function clearTodos() {
   todos = [];
